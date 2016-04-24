@@ -1,2 +1,2 @@
 # noveldownloader
-小说下载器
+yakoo5-小说下载器
